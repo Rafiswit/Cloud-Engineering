@@ -1,2 +1,2 @@
 # Cloud-Engineering-
-Welcome to my Cloud Engineering repository!
+Welcome to my personal Cloud Engineering repository! Here, you will find code samples, templates, and best practices for building scalable and resilient cloud-based systems. Covering cloud platforms like AWS, Azure, and Google Cloud, this repository is a collection of resources that I have curated for my personal learning and practice. Feedback and suggestions are welcome. Thank you for your interest in my Cloud Engineering journey!
